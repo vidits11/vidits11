@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Vidit! 👋 
 
-<!--
-**vidits11/vidits11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Master's in Data Science at UMass Dartmouth, focused on advanced machine learning techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 AI Engineer Intern at Oxmaint Inc., driving innovation with Large Language Models (LLMs).
+
+💡 Machine Learning Enthusiast with hands-on experience in deploying AI-driven solutions.
+
+🎓 B.Tech in Computer Science Engineering, with a strong foundation in software development.
+
+🔧 Expert in LLM APIs, specializing in integrating AI into real-world applications.
+
+🚀 Aiming to pioneer advancements in AI, blending academic research with industry practices.
+
+
+![Vidit's github stats](https://github-readme-stats.vercel.app/api?username=vidits11&show_icons=true&theme=radical)
